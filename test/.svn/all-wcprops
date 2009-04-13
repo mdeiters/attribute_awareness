@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/Other/RubyOnRails/!svn/ver/19411/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Other/RubyOnRails/!svn/ver/19411/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test/test_helper.rb
+END
+test_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/Other/RubyOnRails/!svn/ver/19411/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test/test_schema.rb
+END
+descriptions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/Other/RubyOnRails/!svn/ver/19411/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test/descriptions_test.rb
+END
+validations_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/Other/RubyOnRails/!svn/ver/19411/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test/validations_test.rb
+END

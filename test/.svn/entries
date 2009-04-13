@@ -1,0 +1,64 @@
+8
+
+dir
+19411
+http://svn.intranet.mckinsey.com/Other/RubyOnRails/apps/mymckinsey/trunk/vendor/plugins/attribute_awareness/test
+http://svn.intranet.mckinsey.com/Other/RubyOnRails
+
+
+
+2009-04-13T22:41:54.826813Z
+19411
+ADS\x5cMatthew Deiters
+
+
+svn:special svn:externals svn:needs-lock
+
+test_helper.rb
+file
+
+
+
+
+2009-04-13T21:34:59.000000Z
+ed46e34da0f2a0a87a738286744603ed
+2009-04-13T22:41:54.826813Z
+19411
+ADS\x5cMatthew Deiters
+
+test_schema.rb
+file
+
+
+
+
+2009-04-13T22:36:52.000000Z
+260660b575533719c74be01eced66de7
+2009-04-13T22:41:54.826813Z
+19411
+ADS\x5cMatthew Deiters
+
+descriptions_test.rb
+file
+
+
+
+
+2009-04-13T22:05:58.000000Z
+5f2fba7cc8db2943689daaca62eba87a
+2009-04-13T22:41:54.826813Z
+19411
+ADS\x5cMatthew Deiters
+
+validations_test.rb
+file
+
+
+
+
+2009-04-13T22:38:16.000000Z
+b8c41f082895814c9a99892bfa4ccd85
+2009-04-13T22:41:54.826813Z
+19411
+ADS\x5cMatthew Deiters
+

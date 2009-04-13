@@ -1,0 +1,18 @@
+AttributeAwareness
+=====================
+
+This plugin allows you a DRY way to define descriptions of your model's attributes in the model itself instead of sprinkle all over the views. Additionally it is aware of validations that are defined on a model.
+
+Example
+=======
+
+class Dog < ActiveRecord::Base
+  describe_attributes :name => 'Some dog's name, typically Fido or Spot'
+  validates_presence_of :age
+end
+
+Dog.new.description_for(:name) #=> 'Some dog's name, typically Fido or Spot'
+Dog.new.is_required?(:age) #=> true
+
+
+Copyright (c) 2009 Matthew Deiters, released under the MIT license
